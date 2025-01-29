@@ -22,9 +22,8 @@ I utilized Power BI to create an interactive dashboard that allows users to expl
         - **Bar Charts**: Highlighting top-performing customers and products by profit.
         - **Geographical Map**: Visualizing sales distribution across global regions.
     - Added slicers for year-based filtering to analyze trends over time.
-    - 
-    
-    ![Screenshot 2025-01-19 135658.png](attachment:0fc298af-4067-42f6-be3b-a7760181a4be:Screenshot_2025-01-19_135658.png)
+      ![Screenshot_2025-01-19_135658](https://github.com/user-attachments/assets/00300fa5-643d-4d74-afea-0cbda918189a)
+
     
 - **Optimization**:
     - Enhanced interactivity and responsiveness for a better user experience.
